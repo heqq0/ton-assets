@@ -1,0 +1,9 @@
+name: MSX TOKEN
+description: @msxton
+image: "https://i.imgur.com/lEMNdsG.jpg"
+address: 0:bfbc3a779d4048361a4bf7b1fd9222ed8ca79475915138632f77455a735c6b8e
+symbol: MSX
+max_supply: 100000000
+social:
+  - "https://t.me/msxton"
+  - "https://t.me/msxton_chat"
